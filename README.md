@@ -15,7 +15,7 @@ Appearance information is one of the most important matching indicators for mult
 
 All of the results are obtained on the [MOT challenge](https://motchallenge.net/) evaluation server under the “private detector” protocol. We rank first among all the trackers on  MOT16 and MOT17. 
 
-<img src="https://github.com/460115062ian/picture/blob/main/1.gif" width="320" height="180"/><img src="https://github.com/460115062ian/picture/blob/main/22.gif" width="320" height="180"/><img src="https://github.com/460115062ian/picture/blob/main/33.gif" width="320" height="180"/>
+<img src="https://github.com/460115062ian/picture/blob/main/1.gif" width="320" height="180"/><img src="https://github.com/460115062ian/picture/blob/main/22.gif" width="320" height="180"/>
 
 ## Requirements 
 Python 3.8 or later with all [requirments.txt](https://github.com/JoJoliking/AGM/blob/main/requirements.txt) dependencies installed, including `   torch>=1.7`. To install run:
