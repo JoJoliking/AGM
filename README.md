@@ -23,7 +23,7 @@ Python 3.8 or later with all [requirments.txt](https://github.com/JoJoliking/AGM
 
  ## Training
 * Download the training data
-* ` $ python train.py --data MOT.yaml --cfg ./data/MOT.yaml --batch-size 16` 
+* ` $ python train.py --data MOT.yaml --cfg ./dataset/MOT.yaml --batch-size 16` 
 ## Acknowledgement
 A large part of the code is borrowed from [Zhongdao/Towards-Realtime-MOT](https://github.com/Zhongdao/Towards-Realtime-MOT) and [ultralytics/yolov5](https://github.com/ultralytics/yolov5). Thanks for their wonderful works.
 
