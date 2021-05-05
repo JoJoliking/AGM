@@ -7,7 +7,7 @@
 ## Abstract
 Appearance information is one of the most important matching indicators for multi-object data association. In tracking by detection model, appearance information and detection information are usually integrated in the same sub-network for learning and output. This will cause the appearance embedding vector to be coupled to the network inference method during the learning process. As a result, the appearance embedding vector contains too much background information and affects the accuracy of data association. Based on the non-end-to-end tracking model, we design an appearance guidance attention module on the appearance extraction branch. This module can effectively strengthen the network’s learning of the object visual appearance features and reduce the attention to the learning of background features. Finally, we use the appearance embedding vector that decoupled from the inference method as the input of the back-end tracker and perform data association. Our method is tested on theMOT16 andMOT17 datasets. Experiments show that our method provides more high-quality appearance representation information for the back-end tracker and the tracking performance on the two datasets is better than other comparison models. At the same time, our model can reach 24.9FPS on a single 1080Ti.
 ## Notes
-** The code is an unorganized version
+**The code is an unorganized version**
 ## Tracking Performance
 **Results on MOTchallenge test set**
 |Dataset|MOTA|IDF1|MOTP|MT|ML|Recall|ID.Sw|
