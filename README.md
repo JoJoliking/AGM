@@ -1,6 +1,6 @@
 # AGM
 
-**The main contributors of this paper are Junjie Huang(JoJoliking) and Zhibo Zou(460115062ian)**
+**\emph{The main contributors} of this paper are Junjie Huang(JoJoliking) and Zhibo Zou(460115062ian)**
 
 **Apperance Guidance Attention for Multi-Object Tracking:**
 
