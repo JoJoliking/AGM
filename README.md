@@ -17,7 +17,7 @@ Appearance information is one of the most important matching indicators for mult
 |MOT16|68.3|68.3|80.0|40.4%|13.8%|77.1|1005|
 |MOT17|68.1|67.7|80.1|39.0%|14.9%|75.6|3195|
 
-All of the results are obtained on the [MOT challenge](https://motchallenge.net/) evaluation server under the “private detector” protocol. We rank first among all the trackers on  MOT16 and MOT17. 
+All of the results are obtained on the [MOT challenge](https://motchallenge.net/) evaluation server under the “private detector” protocol. 
 
 <img src="https://github.com/460115062ian/picture/blob/main/1.gif" width="320" height="180"/><img src="https://github.com/460115062ian/picture/blob/main/22.gif" width="320" height="180"/>
 
